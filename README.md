@@ -1,2 +1,2 @@
 # goodbooks
-Books project containing list of books. Understood useState and passing of lists in React.
+Goodbooks project containing list of books. Understood useState, passing of lists and printing multiple items in React from this project.
