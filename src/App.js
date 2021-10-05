@@ -4,7 +4,8 @@ import "./styles.css";
 const bookDB = {
   javascript: [
     { name: "Eloquent JavaScript", rating: "4/5" },
-    { name: "You Don't Know JS", rating: "3.5/5" }
+    { name: "You Don't Know JS", rating: "3.5/5" },
+    { name: "A Smarter Way To Learn Javascript", rating: "3/5"}
   ],
 
   fiction: [
@@ -15,6 +16,10 @@ const bookDB = {
     {
       name: "Harry Potter and the Sorcerer's Stone",
       rating: "4.5/5"
+    },
+    {
+      name: "The Alchemist",
+      rating: "4/5"
     }
   ],
   business: [
@@ -25,6 +30,10 @@ const bookDB = {
     {
       name: "Loonshots",
       rating: "5/5"
+    },
+    {
+      name: "Critical Chain",
+      rating: "4.5/5"
     }
   ]
 };
